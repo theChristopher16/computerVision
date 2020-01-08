@@ -1,2 +1,3 @@
 # computerVision
-CYEN489
+CYEN489 Computer Vision
+
